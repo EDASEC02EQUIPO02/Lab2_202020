@@ -23,7 +23,7 @@
  """
 
 """
-  Este módulo es una aplicación básica con un menú de opciones para cargar datos, contar elementos, y hacer búsquedas sobre una lista .
+  Hemos acabado el trabajo
 """
 
 import config as cf
