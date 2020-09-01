@@ -1,6 +1,3 @@
-# Lab2_202010
-Listas y ordenamientos
-
 
 Integrantes del grupo: 
 Luis Ángel Angarita Coa, la.angarita@uniandes.edu.co, 201910393. 
